@@ -1,0 +1,12 @@
+body {
+  background: #1F4A2E;
+  color: #F1D088;
+}
+
+.talker {
+  float: left;
+}
+
+.locations {
+  float: right;
+}
